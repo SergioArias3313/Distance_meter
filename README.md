@@ -1,2 +1,2 @@
 # Distance_meter
-Distance detector between multiple points with ROS
+Distance meter between multiple points with ROS and only pyhton
